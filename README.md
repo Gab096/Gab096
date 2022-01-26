@@ -4,7 +4,7 @@
 [![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawdney-mendes-a74aa2187/) 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriel.vilela_/)
 
-![Rawdney's GitHub status](https://github-readme-stats.vercel.app/api?username=Gab096&show_icons=true&theme=dark)
+![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=Gab096&show_icons=true&theme=dark)
 
 ### Tecnologias que tenho conhecimento: 
 
@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Apaixonado por Back-end :D
+## Apaixonado por front-end
 
 
 ![plak](https://github-readme-stats.vercel.app/api/top-langs/?username=Gab096&theme=blue-green)
