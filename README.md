@@ -1,7 +1,7 @@
 ### Olá, me chamo Gabriel Nogueira 👋
 #### 
 
-[![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rawdney-mendes-a74aa2187/) 
+[![Redes Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nogueira-2b937a220/) 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriel.vilela_/)
 
 ![Gabriel's GitHub status](https://github-readme-stats.vercel.app/api?username=Gab096&show_icons=true&theme=dark)
